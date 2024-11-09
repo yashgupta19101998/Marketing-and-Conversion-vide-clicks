@@ -1,5 +1,6 @@
 # Marketing-and-Conversion-vide-clicks
-Marketing
+Tools Used - MS Excel, MySQL
+
 Marketing Campaign Analysis for Digital Subscription Growth
 After conducting a thorough analysis of the data provided in the Marketing_Campaigns, User_Engagement, and Revenue_Generated files, we have drawn several key insights that highlight the performance and effectiveness of our promotional campaigns.
 
